@@ -23,7 +23,7 @@ setup(
     name="sentry-sdk",
     version="2.4.0",
     author="Sentry Team and Contributors",
-    author_email="hello@sentry.io",
+    author_email="helloo@sentry.io",
     url="https://github.com/getsentry/sentry-python",
     project_urls={
         "Documentation": "https://docs.sentry.io/platforms/python/",
